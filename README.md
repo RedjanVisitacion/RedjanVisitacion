@@ -1,7 +1,7 @@
 <img src="Rpsv_Code.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello Guys, I'm Redjan Phil S. Visitacion or (RPSV_CODES), a Student of BSIT 👋🏼:
-🛜 currently studying on my own <br>👨🏼‍🎓 studying technology based Information Technology<br>👨🏼‍💻 programming experience since 2022 <br>🎬 just started with my tiktok channel <i>redjanphilsvisitacon</i>
+🛜 currently studying <br>👨🏼‍🎓 studying technology based Information Technology<br>👨🏼‍💻 programming experience since 2022 <br>🎬 just started with my tiktok channel <i>redjanphilsvisitacon</i>
 
 
 
