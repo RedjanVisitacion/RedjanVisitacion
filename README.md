@@ -1,6 +1,5 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# 💫 About Me:
 # Hello Guys, I'm Redjan Phil S. Visitacion or (RPSV_CODES), a Student of BSIT 👋🏼:
 🛜 currently studying on my own <br>👨🏼‍🎓 studying technology based Information Technology<br>👨🏼‍💻 programming experience since 2022 <br>🎬 just started with my tiktok channel <i>redjanphilsvisitacon</i>
 
@@ -17,8 +16,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RedjanVisitacion&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RedjanVisitacion&icon=0&color=0)](https://visitcount.itsvg.in)
