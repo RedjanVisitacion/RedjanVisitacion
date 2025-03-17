@@ -16,7 +16,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RedjanVisitacion&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="bgLog.png" alt="GitHub Banner" width="100%" />
+<img src="bgLog-removebg-preview (1).png" alt="GitHub Banner" width="100%" />
 
 
 ---
