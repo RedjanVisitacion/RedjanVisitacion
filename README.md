@@ -20,9 +20,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RedjanVisitacion&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedjanVisitacion&show_icons=true&theme=radical&count_private=true" height="180px"/>
-</p>
 
 <img src="bgLog.png" alt="GitHub Banner" width="100%" />
 
@@ -54,6 +51,7 @@
   </p><div align="center">Visitor count</div><br>
   <div align="center">
     <img src="https://profile-counter.glitch.me/RedjanVisitacion/count.svg">
+    <img src="https://github-readme-stats.vercel.app/api?username=RedjanVisitacion&show_icons=true&theme=radical&count_private=true" height="180px"/>
   </div> 
 <p>
 
