@@ -43,7 +43,7 @@
 </div>
 
 <p align="center"> 
-  </p><div align="center">Visitor count</div>
+  </p><div align="center">Visitor count</div><br>
   <div align="center">
     <img src="https://profile-counter.glitch.me/RedjanVisitacion/count.svg">
   </div> 
