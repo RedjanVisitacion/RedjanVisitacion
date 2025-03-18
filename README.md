@@ -28,6 +28,14 @@
   <img alt="github-snake" src="https://github.com/RedjanVisitacion/RedjanVisitacion/blob/output/github-snake.svg" />
 </picture>
 
+<p align="center"> 
+  </p><div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/Niefee/count.svg">
+  </div> 
+<p>
+
+
 <!-- BLOG-POST-LIST:END -->
 <hr>
 <h3 id="heres-a-joke-for-you">😜Here’s a Joke for you:</h3>
