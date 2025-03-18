@@ -18,6 +18,11 @@
 
 <img src="bgLog.png" alt="GitHub Banner" width="100%" />
 
+<p align="center" style="height: 180px;">
+    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=Niefee&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;show_icons=true&amp;theme=radical">
+    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Niefee&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RedjanVisitacion&icon=0&color=0)](https://visitcount.itsvg.in)
