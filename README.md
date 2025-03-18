@@ -22,7 +22,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RedjanVisitacion&show_icons=true&theme=radical&count_private=true" height="180px"/>
-  <img src="https://streak-stats.demolab.com/?user=RedjanVisitacion&theme=radical" height="180px"/>
 </p>
 
 <img src="bgLog.png" alt="GitHub Banner" width="100%" />
