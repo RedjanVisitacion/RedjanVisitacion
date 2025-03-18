@@ -50,7 +50,7 @@
 <p align="center"> 
   </p><div align="center">Visitor count</div><br>
   <div align="center">
-    <img src="https://profile-counter.glitch.me/RedjanVisitacion/count.svg"><br>
+    <img src="https://profile-counter.glitch.me/RedjanVisitacion/count.svg"><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=RedjanVisitacion&show_icons=true&theme=radical&count_private=true" height="180px"/>
   </div> 
 <p>
