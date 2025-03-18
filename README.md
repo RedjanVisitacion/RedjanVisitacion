@@ -49,6 +49,6 @@
   </div> 
 <p>
 
-<p>Credit: <a href="https://web.facebook.com/profile.php?id=100080078753987&username=%22Redjan%20Phil%20S.%20Visitacion%22">REDJAN PHIL S. VISITACION</a></p>
+<p align="center">Credit by: <a href="https://web.facebook.com/profile.php?id=100080078753987&username=%22Redjan%20Phil%20S.%20Visitacion%22"> REDJAN PHIL S. VISITACION</a></p>
 
 <!-- Proudly created by: Redjan Phil S. Visitacion -->
