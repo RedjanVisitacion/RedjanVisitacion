@@ -19,12 +19,7 @@
 <img src="bgLog.png" alt="GitHub Banner" width="100%" />
 
 
-<p align="center"> 
-  </p><div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/RedjanVisitacion/count.svg">
-  </div> 
-<p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RedjanVisitacion&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -46,6 +41,13 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
   <hr>
 </div>
+
+<p align="center"> 
+  </p><div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/RedjanVisitacion/count.svg">
+  </div> 
+<p>
 
 <p>Credit: <a href="https://web.facebook.com/profile.php?id=100080078753987&username=%22Redjan%20Phil%20S.%20Visitacion%22">REDJAN PHIL S. VISITACION</a></p>
 
