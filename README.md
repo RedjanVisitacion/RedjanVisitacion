@@ -1,9 +1,9 @@
 <img src="Rpsv_Code.jpg" alt="GitHub Banner" width="100%" />
 
 <p align="center">
-  <a href="https://github.com/RedjanVisitacion">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=I+want+to+be+a+Programmer;Frontend+Developer;HTML+|+CSS+|+JavaScript;Photographer+|+Editor+Applications;Always+developing+my+skills" />
-  </a>
+    <a href="https://github.com/RedjanVisitacion">
+      <img src="https://readme-typing-svg.herokuapp.com?size=30&color=A0A0A0&center=true&vCenter=true&width=600&height=60&lines=I+want+to+be+a+Programmer;Frontend+Developer;HTML+|+CSS+|+JavaScript;Photographer+|+Editor+Applications;Always+developing+my+skills" />
+    </a>
 </p>
 
 
