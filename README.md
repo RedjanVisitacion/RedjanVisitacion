@@ -28,4 +28,11 @@
   <img alt="github-snake" src="https://github.com/RedjanVisitacion/RedjanVisitacion/blob/output/github-snake.svg" />
 </picture>
 
+<!-- BLOG-POST-LIST:END -->
+<hr>
+<h3 id="heres-a-joke-for-you">😜Here’s a Joke for you:</h3>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+<hr>
+<p>Credit: <a href="https://web.facebook.com/profile.php?id=100080078753987&username=%22Redjan%20Phil%20S.%20Visitacion%22">REDJAN PHIL S. VISITACION</a></p>
+
 <!-- Proudly created by: Redjan Phil S. Visitacion -->
