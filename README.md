@@ -23,7 +23,7 @@
 
 <img src="bgLog.png" alt="GitHub Banner" width="100%" />
 
-[![Landing Page Preview](https://redjanvisitacion.github.io/VISITACION-LANDING-PAGE/screenshot.png)](https://redjanvisitacion.github.io/VISITACION-LANDING-PAGE/RPSV_CODES.html)
+
 
 
 
