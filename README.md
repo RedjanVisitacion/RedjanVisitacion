@@ -2,9 +2,14 @@
 
 <img src="RPSVCODES.jpg" alt="GitHub Banner" width="100%" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=A0A0A0&center=true&vCenter=true&width=600&height=60&lines=I+want+to+be+a+Programmer;Frontend+Developer;HTML+|+CSS+|+JavaScript;Photographer+|+Editor+Applications;Always+developing+my+skills" />
+<div align="center" style="margin-top: 20px;">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=700&height=60&lines=I+want+to+be+a+Programmer;Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Photographer+%7C+Editor+Applications;Always+developing+my+skills" 
+    alt="Typing SVG"
+    style="box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); border-radius: 8px;"
+  />
 </div>
+
 
 ## :briefcase: About Me
 - :dart: Aspiring Frontend Developer
