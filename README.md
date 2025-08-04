@@ -1,6 +1,6 @@
 # Redjan Phil S. Visitacion
 
-<img src="Rpsv_Code.jpg" alt="GitHub Banner" width="100%" />
+<img src="RPSVCODES.jpg" alt="GitHub Banner" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=A0A0A0&center=true&vCenter=true&width=600&height=60&lines=I+want+to+be+a+Programmer;Frontend+Developer;HTML+|+CSS+|+JavaScript;Photographer+|+Editor+Applications;Always+developing+my+skills" />
