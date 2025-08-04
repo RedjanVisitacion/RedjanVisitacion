@@ -10,6 +10,9 @@
   />
 </div>
 
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=RedjanVisitacion&color=orange&style=flat)
+</div>
 ---
 
 ## 💼 About Me
@@ -82,13 +85,6 @@
   <img alt="github-snake" src="https://github.com/RedjanVisitacion/RedjanVisitacion/blob/output/github-snake.svg" />
 </picture>
 </div>
-
----
-
-## 👁️ Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=RedjanVisitacion&color=orange&style=flat)
-
 
 ---
 
