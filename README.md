@@ -11,8 +11,9 @@
 </div>
 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=RedjanVisitacion&color=orange&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=RedjanVisitacion&color=orange&style=flat" alt="Profile Views" />
 </div>
+
 ---
 
 ## 💼 About Me
