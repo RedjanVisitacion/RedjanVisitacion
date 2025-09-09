@@ -50,6 +50,22 @@
 
 ---
 
+## 📊 Skill Progress  
+
+<div align="center">
+
+**Programming & Development**  
+
+![JavaScript](https://progress-bar.dev/70/?title=JavaScript&width=300&color=orange)  
+![Java](https://progress-bar.dev/60/?title=Java&width=300&color=blue)  
+![C#](https://progress-bar.dev/50/?title=C%23&width=300&color=green)  
+![HTML/CSS](https://progress-bar.dev/85/?title=HTML%2FCSS&width=300&color=red)  
+![Dart/Flutter](https://progress-bar.dev/45/?title=Dart%20%2F%20Flutter&width=300&color=purple)  
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 [![Website](https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://redjanvisitacion.github.io/VISITACION-LANDING-PAGE/RPSV_CODES)
@@ -69,7 +85,23 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Activity & Contributions  
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedjanVisitacion&theme=radical&bg_color=141321&color=F97316&line=F97316&point=ffffff&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 📊 Language Usage  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedjanVisitacion&layout=compact&theme=radical&langs_count=10" height="200px"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies  
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RedjanVisitacion&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
@@ -77,7 +109,7 @@
 
 ---
 
-## 🐍 Contribution Graph Animation
+## 🐍 Contribution Graph Animation  
 
 <div align="center">
 <picture>
