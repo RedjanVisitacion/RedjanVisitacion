@@ -52,17 +52,14 @@
 
 ## 📊 Skill Progress  
 
-<div align="center">
+### Programming & Development  
 
-**Programming & Development**  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-orange?style=for-the-badge)  
+- ![Java](https://img.shields.io/badge/Java-60%25-blue?style=for-the-badge)  
+- ![C#](https://img.shields.io/badge/C%23-50%25-green?style=for-the-badge)  
+- ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-85%25-red?style=for-the-badge)  
+- ![Dart/Flutter](https://img.shields.io/badge/Dart%2FFlutter-45%25-purple?style=for-the-badge)  
 
-![JavaScript](https://progress-bar.dev/70/?title=JavaScript&width=300&color=orange)  
-![Java](https://progress-bar.dev/60/?title=Java&width=300&color=blue)  
-![C#](https://progress-bar.dev/50/?title=C%23&width=300&color=green)  
-![HTML/CSS](https://progress-bar.dev/85/?title=HTML%2FCSS&width=300&color=red)  
-![Dart/Flutter](https://progress-bar.dev/45/?title=Dart%20%2F%20Flutter&width=300&color=purple)  
-
-</div>
 
 ---
 
