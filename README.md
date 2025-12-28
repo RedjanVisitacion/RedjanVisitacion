@@ -22,7 +22,7 @@
 - 📸 Passionate **Photographer & Editor**
 - 📚 Lifelong Learner & Tech Explorer
 - 💡 Focused on creating **beautiful, functional web experiences**
-- 🌐 Portfolio: [RPSV CODES Landing Page](https://redjanvisitacion.github.io/VISITACION-LANDING-PAGE/RPSV_CODES)
+- 🌐 Portfolio: [RPSV CODES Landing Page](https://redjan.vercel.app)
 
 ---
 
