@@ -151,6 +151,58 @@ I build web interfaces with a focus on clarity, usability, and visual polish. My
 
 ---
 
+## Project Planning
+
+### Development Gantt Chart
+
+```mermaid
+gantt
+    title Frontend Portfolio Development Roadmap
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b %d
+
+    section Discovery
+    Project goals and requirements      :done,    req, 2026-06-02, 2d
+    Content and visual direction        :active,  dir, after req, 2d
+
+    section Design
+    Wireframe and layout planning       :         wire, after dir, 3d
+    UI styling and brand polish         :         ui, after wire, 4d
+
+    section Development
+    Responsive frontend build           :         dev, after ui, 5d
+    Portfolio sections and interactions :         inter, after dev, 3d
+
+    section Quality
+    Testing and performance review      :         qa, after inter, 2d
+    Final polish and deployment         :         deploy, after qa, 2d
+```
+
+### PERT Chart
+
+```mermaid
+flowchart LR
+    A([Start]) --> B[Define Goals]
+    B --> C[Gather Content]
+    B --> D[Plan Visual Direction]
+    C --> E[Create Wireframe]
+    D --> E
+    E --> F[Build Frontend Layout]
+    F --> G[Add Responsive Styling]
+    G --> H[Integrate Portfolio Content]
+    H --> I[Test UI and Links]
+    I --> J[Optimize Performance]
+    J --> K[Deploy and Review]
+    K --> L([Complete])
+
+    classDef startEnd fill:#00AEEF,color:#ffffff,stroke:#00AEEF;
+    classDef task fill:#111827,color:#ffffff,stroke:#00AEEF;
+    class A,L startEnd;
+    class B,C,D,E,F,G,H,I,J,K task;
+```
+
+---
+
 ## GitHub Analytics
 
 <p align="center">
