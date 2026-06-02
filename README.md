@@ -151,6 +151,20 @@ I build web interfaces with a focus on clarity, usability, and visual polish. My
 
 ---
 
+## Skill Distribution Pie Chart
+
+```mermaid
+pie showData
+    title Skill Focus Distribution
+    "HTML / CSS" : 30
+    "JavaScript" : 25
+    "Java" : 15
+    "C#" : 15
+    "Dart / Flutter" : 15
+```
+
+---
+
 ## Project Planning
 
 ### Development Gantt Chart
