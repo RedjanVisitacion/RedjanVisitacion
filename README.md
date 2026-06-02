@@ -28,12 +28,34 @@
 
 I build web interfaces with a focus on clarity, usability, and visual polish. My creative background in photography and editing helps me approach frontend development with a strong sense of layout, composition, and user experience.
 
-| Focus Area | What I Bring |
-| --- | --- |
-| Frontend Development | Responsive layouts, clean structure, and user-friendly interface design |
-| Creative Direction | Photography, editing, visual branding, and content presentation |
-| Continuous Growth | JavaScript, Flutter, backend fundamentals, and cloud tools |
-| Portfolio | [redjan.vercel.app](https://redjan.vercel.app) |
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Focus Area</th>
+        <th>What I Bring</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Frontend Development</strong></td>
+        <td>Responsive layouts, clean structure, and user-friendly interface design</td>
+      </tr>
+      <tr>
+        <td><strong>Creative Direction</strong></td>
+        <td>Photography, editing, visual branding, and content presentation</td>
+      </tr>
+      <tr>
+        <td><strong>Continuous Growth</strong></td>
+        <td>JavaScript, Flutter, backend fundamentals, and cloud tools</td>
+      </tr>
+      <tr>
+        <td><strong>Portfolio</strong></td>
+        <td><a href="https://redjan.vercel.app">redjan.vercel.app</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
@@ -94,13 +116,38 @@ I build web interfaces with a focus on clarity, usability, and visual polish. My
 
 ## Skill Progress
 
-| Skill | Level |
-| --- | --- |
-| HTML / CSS | ![85 percent](https://img.shields.io/badge/Advanced-85%25-00AEEF?style=for-the-badge) |
-| JavaScript | ![70 percent](https://img.shields.io/badge/Developing-70%25-F7DF1E?style=for-the-badge&labelColor=111827) |
-| Java | ![60 percent](https://img.shields.io/badge/Intermediate-60%25-ED8B00?style=for-the-badge) |
-| C# | ![50 percent](https://img.shields.io/badge/Foundational-50%25-239120?style=for-the-badge) |
-| Dart / Flutter | ![45 percent](https://img.shields.io/badge/Growing-45%25-02569B?style=for-the-badge) |
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Skill</th>
+        <th>Level</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>HTML / CSS</strong></td>
+        <td><img src="https://img.shields.io/badge/Advanced-85%25-00AEEF?style=for-the-badge" alt="HTML CSS 85 percent" /></td>
+      </tr>
+      <tr>
+        <td><strong>JavaScript</strong></td>
+        <td><img src="https://img.shields.io/badge/Developing-70%25-F7DF1E?style=for-the-badge&labelColor=111827" alt="JavaScript 70 percent" /></td>
+      </tr>
+      <tr>
+        <td><strong>Java</strong></td>
+        <td><img src="https://img.shields.io/badge/Intermediate-60%25-ED8B00?style=for-the-badge" alt="Java 60 percent" /></td>
+      </tr>
+      <tr>
+        <td><strong>C#</strong></td>
+        <td><img src="https://img.shields.io/badge/Foundational-50%25-239120?style=for-the-badge" alt="C sharp 50 percent" /></td>
+      </tr>
+      <tr>
+        <td><strong>Dart / Flutter</strong></td>
+        <td><img src="https://img.shields.io/badge/Growing-45%25-02569B?style=for-the-badge" alt="Dart Flutter 45 percent" /></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
@@ -112,6 +159,12 @@ I build web interfaces with a focus on clarity, usability, and visual polish. My
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedjanVisitacion&theme=react-dark&bg_color=0D1117&color=00AEEF&line=00AEEF&point=ffffff&hide_border=true" alt="Contribution activity graph" width="100%" />
+</p>
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=RedjanVisitacion&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4" alt="GitHub trophies" />
 </p>
 
 ## Contribution Graph
