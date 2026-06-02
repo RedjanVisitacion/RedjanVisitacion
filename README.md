@@ -8,9 +8,6 @@
   <a href="https://redjan.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-redjan.vercel.app-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://redjanvisitacion.github.io/VISITACION-LANDING-PAGE/RPSV_CODES">
-    <img src="https://img.shields.io/badge/Website-RPSV%20Codes-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=RedjanVisitacion&color=0EA5E9&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -115,9 +112,6 @@ I am an aspiring frontend developer focused on building clean, responsive, and u
 ## Connect With Me
 
 <p align="center">
-  <a href="https://redjanvisitacion.github.io/VISITACION-LANDING-PAGE/RPSV_CODES">
-    <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
   <a href="https://web.facebook.com/Rpsv.Codes">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
