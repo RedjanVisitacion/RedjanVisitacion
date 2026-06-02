@@ -86,23 +86,21 @@ I am an aspiring frontend developer focused on building clean, responsive, and u
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedjanVisitacion&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Redjan's GitHub stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedjanVisitacion&theme=github-dark-blue&hide_border=true" alt="Redjan's GitHub streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedjanVisitacion&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top languages" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedjanVisitacion&theme=github-dark-blue&hide_border=true" alt="Redjan's GitHub streak" height="180" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedjanVisitacion&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=ffffff&hide_border=true" alt="Contribution activity graph" width="100%" />
 </p>
 
-## GitHub Trophies
+## Profile Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RedjanVisitacion&theme=onedark&no-frame=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</p>
+| Focus | Details |
+| --- | --- |
+| Main path | Frontend development and responsive web interfaces |
+| Creative edge | Photography, editing, layout design, and visual branding |
+| Current growth | JavaScript, Flutter, backend tools, and cloud fundamentals |
+| Goal | Build polished digital experiences through code and design |
 
 ## Contribution Graph
 
