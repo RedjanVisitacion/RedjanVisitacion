@@ -155,50 +155,59 @@ I build web interfaces with a focus on clarity, usability, and visual polish. My
 
 ### Development Gantt Chart
 
-```mermaid
-gantt
-    title Frontend Portfolio Development Roadmap
-    dateFormat  YYYY-MM-DD
-    axisFormat  %b %d
-
-    section Discovery
-    Project goals and requirements      :done,    req, 2026-06-02, 2d
-    Content and visual direction        :active,  dir, after req, 2d
-
-    section Design
-    Wireframe and layout planning       :         wire, after dir, 3d
-    UI styling and brand polish         :         ui, after wire, 4d
-
-    section Development
-    Responsive frontend build           :         dev, after ui, 5d
-    Portfolio sections and interactions :         inter, after dev, 3d
-
-    section Quality
-    Testing and performance review      :         qa, after inter, 2d
-    Final polish and deployment         :         deploy, after qa, 2d
-```
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Phase</th>
+        <th>Timeline</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Discovery</strong></td>
+        <td><img src="https://img.shields.io/badge/Week%201-Planning%20%26%20Direction-00AEEF?style=for-the-badge" alt="Week 1 planning and direction" /></td>
+        <td><img src="https://img.shields.io/badge/Done-100%25-16A34A?style=for-the-badge" alt="Done" /></td>
+      </tr>
+      <tr>
+        <td><strong>Design</strong></td>
+        <td><img src="https://img.shields.io/badge/Week%202-Wireframe%20%26%20UI%20Polish-0EA5E9?style=for-the-badge" alt="Week 2 wireframe and UI polish" /></td>
+        <td><img src="https://img.shields.io/badge/Active-70%25-F59E0B?style=for-the-badge" alt="Active" /></td>
+      </tr>
+      <tr>
+        <td><strong>Development</strong></td>
+        <td><img src="https://img.shields.io/badge/Week%203-Responsive%20Build-2563EB?style=for-the-badge" alt="Week 3 responsive build" /></td>
+        <td><img src="https://img.shields.io/badge/Queued-40%25-6366F1?style=for-the-badge" alt="Queued" /></td>
+      </tr>
+      <tr>
+        <td><strong>Quality Review</strong></td>
+        <td><img src="https://img.shields.io/badge/Week%204-Testing%20%26%20Deployment-7C3AED?style=for-the-badge" alt="Week 4 testing and deployment" /></td>
+        <td><img src="https://img.shields.io/badge/Upcoming-20%25-64748B?style=for-the-badge" alt="Upcoming" /></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ### PERT Chart
 
 ```mermaid
-flowchart LR
+flowchart TB
     A([Start]) --> B[Define Goals]
     B --> C[Gather Content]
-    B --> D[Plan Visual Direction]
-    C --> E[Create Wireframe]
+    B --> D[Set Visual Direction]
+    C --> E[Wireframe Layout]
     D --> E
-    E --> F[Build Frontend Layout]
-    F --> G[Add Responsive Styling]
-    G --> H[Integrate Portfolio Content]
-    H --> I[Test UI and Links]
-    I --> J[Optimize Performance]
-    J --> K[Deploy and Review]
-    K --> L([Complete])
+    E --> F[Build UI]
+    F --> G[Responsive Styling]
+    G --> H[Test Links and Layout]
+    H --> I[Final Polish]
+    I --> J([Deploy])
 
-    classDef startEnd fill:#00AEEF,color:#ffffff,stroke:#00AEEF;
-    classDef task fill:#111827,color:#ffffff,stroke:#00AEEF;
-    class A,L startEnd;
-    class B,C,D,E,F,G,H,I,J,K task;
+    classDef main fill:#00AEEF,color:#ffffff,stroke:#00AEEF,stroke-width:2px;
+    classDef task fill:#111827,color:#ffffff,stroke:#00AEEF,stroke-width:1px;
+    class A,J main;
+    class B,C,D,E,F,G,H,I task;
 ```
 
 ---
