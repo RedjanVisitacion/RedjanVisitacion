@@ -1,103 +1,118 @@
-# Redjan Phil S. Visitacion
-
 <p align="center">
   <img src="RPSVCODES.jpg" alt="RPSV Codes banner" width="100%" />
 </p>
 
+<h1 align="center">Redjan Phil S. Visitacion</h1>
+
+<p align="center">
+  <strong>Aspiring Frontend Developer</strong> focused on clean interfaces, responsive layouts, and polished digital experiences.
+</p>
+
 <p align="center">
   <a href="https://redjan.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-redjan.vercel.app-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-redjan.vercel.app-00AEEF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=RedjanVisitacion&color=0EA5E9&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RedjanVisitacion&color=00AEEF&style=for-the-badge&label=Profile%20Views" alt="Profile views" />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0EA5E9&center=true&vCenter=true&width=800&height=50&lines=Aspiring+Frontend+Developer;Building+clean+and+functional+web+experiences;HTML+%7C+CSS+%7C+JavaScript;Photographer+and+Creative+Editor;Always+learning%2C+always+improving"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00AEEF&center=true&vCenter=true&width=820&height=48&lines=Frontend+Developer+in+Progress;Clean+UI+%7C+Responsive+Design+%7C+Creative+Direction;HTML+%7C+CSS+%7C+JavaScript+%7C+Flutter;Building+better+every+day"
     alt="Typing introduction"
   />
 </p>
 
-## About Me
+---
 
-I am an aspiring frontend developer focused on building clean, responsive, and user-friendly web experiences. I also work with photography and editing, which helps me bring a stronger visual sense into the interfaces I create.
+## Professional Profile
 
-- Building: Frontend projects, landing pages, and web interfaces
-- Learning: JavaScript, Flutter, backend tools, and cloud fundamentals
-- Creative work: Photography, editing, layout design, and visual branding
-- Portfolio: [RPSV Codes Landing Page](https://redjan.vercel.app)
+I build web interfaces with a focus on clarity, usability, and visual polish. My creative background in photography and editing helps me approach frontend development with a strong sense of layout, composition, and user experience.
 
-## Tech Stack
+| Focus Area | What I Bring |
+| --- | --- |
+| Frontend Development | Responsive layouts, clean structure, and user-friendly interface design |
+| Creative Direction | Photography, editing, visual branding, and content presentation |
+| Continuous Growth | JavaScript, Flutter, backend fundamentals, and cloud tools |
+| Portfolio | [redjan.vercel.app](https://redjan.vercel.app) |
+
+---
+
+## Core Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-00AEEF?style=for-the-badge" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Mobile-Dart%20%7C%20Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile" />
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20MySQL%20%7C%20Appwrite-FD366E?style=for-the-badge" alt="Backend" />
+  <img src="https://img.shields.io/badge/Creative-Figma%20%7C%20Photoshop%20%7C%20Canva-111827?style=for-the-badge" alt="Creative tools" />
+</p>
+
+## Technology Stack
 
 ### Languages & Frameworks
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-882991?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-7B1FA2?style=flat-square&logo=flutter&logoColor=white)
 
 ### Backend, Cloud & Infrastructure
 
-![LAMP](https://img.shields.io/badge/LAMP-777BB4?style=for-the-badge&logo=linux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-![Kamatera](https://img.shields.io/badge/Kamatera-00458C?style=for-the-badge&logo=cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![LAMP](https://img.shields.io/badge/LAMP-111827?style=flat-square&logo=linux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
+![Kamatera](https://img.shields.io/badge/Kamatera-00458C?style=flat-square&logo=icloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ### Design & Productivity
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Monday.com](https://img.shields.io/badge/Monday.com-00CA72?style=for-the-badge&logo=mondaydotcom&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Monday.com](https://img.shields.io/badge/Monday.com-00CA72?style=flat-square&logo=mondaydotcom&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+---
 
 ## Skill Progress
 
-| Area | Progress |
+| Skill | Level |
 | --- | --- |
-| HTML / CSS | ![HTML CSS](https://img.shields.io/badge/85%25-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| JavaScript | ![JavaScript](https://img.shields.io/badge/70%25-F7DF1E?style=flat-square&logo=javascript&logoColor=111111) |
-| Java | ![Java](https://img.shields.io/badge/60%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| C# | ![C Sharp](https://img.shields.io/badge/50%25-239120?style=flat-square&logo=csharp&logoColor=white) |
-| Dart / Flutter | ![Dart Flutter](https://img.shields.io/badge/45%25-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| HTML / CSS | ![85 percent](https://img.shields.io/badge/Advanced-85%25-00AEEF?style=for-the-badge) |
+| JavaScript | ![70 percent](https://img.shields.io/badge/Developing-70%25-F7DF1E?style=for-the-badge&labelColor=111827) |
+| Java | ![60 percent](https://img.shields.io/badge/Intermediate-60%25-ED8B00?style=for-the-badge) |
+| C# | ![50 percent](https://img.shields.io/badge/Foundational-50%25-239120?style=for-the-badge) |
+| Dart / Flutter | ![45 percent](https://img.shields.io/badge/Growing-45%25-02569B?style=for-the-badge) |
+
+---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedjanVisitacion&theme=github-dark-blue&hide_border=true" alt="Redjan's GitHub streak" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedjanVisitacion&theme=github-dark-blue&hide_border=true" alt="Redjan's GitHub streak" height="185" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedjanVisitacion&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=ffffff&hide_border=true" alt="Contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedjanVisitacion&theme=react-dark&bg_color=0D1117&color=00AEEF&line=00AEEF&point=ffffff&hide_border=true" alt="Contribution activity graph" width="100%" />
 </p>
-
-## Profile Highlights
-
-| Focus | Details |
-| --- | --- |
-| Main path | Frontend development and responsive web interfaces |
-| Creative edge | Photography, editing, layout design, and visual branding |
-| Current growth | JavaScript, Flutter, backend tools, and cloud fundamentals |
-| Goal | Build polished digital experiences through code and design |
 
 ## Contribution Graph
 
@@ -108,6 +123,8 @@ I am an aspiring frontend developer focused on building clean, responsive, and u
     <img alt="GitHub contribution snake animation" src="https://github.com/RedjanVisitacion/RedjanVisitacion/blob/output/github-snake.svg" />
   </picture>
 </p>
+
+---
 
 ## Connect With Me
 
